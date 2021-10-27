@@ -1,0 +1,19 @@
+{
+   "name": "RDMlist" 
+   "logoURI": "https://coin.top/production/upload/logo/TDXwsWQDyW2tasTCWcApmKkBQrYih5ismi.png", 
+   "timestamp": 1635336000000, 
+   "tokens": [{
+           "chainId": 1, 
+           "address": "TDXwsWQDyW2tasTCWcApmKkBQrYih5ismi", 
+           "name": "RDLottery Member",
+           "symbol": "RDM",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/upload/logo/TDXwsWQDyW2tasTCWcApmKkBQrYih5ismi.png"
+       },
+   ],
+   "version": { 
+       "major": 1,
+       "minor": 0,
+       "patch": 0
+   }
+}
